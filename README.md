@@ -16,3 +16,4 @@ the text and the semantic similarity of the query as results to the user in less
 than 0.5 milli second.
 
 ### please have a look at the Code in action
+<img src = "result.gif">
