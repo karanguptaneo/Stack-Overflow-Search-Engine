@@ -13,7 +13,7 @@ based techniques in a computationally optimized manner. So from the design
 stand point we will be building a q/a search engine which on the run time
 takes the query question as text and give the most similar answered by using
 the text and the semantic similarity of the query as results to the user in less
-than 0.5 milli second.
+than 0.5 second.
 
 ### please have a look at the Code in action
 <img src = "result.gif">
