@@ -1,4 +1,5 @@
 # Stack-Overflow-Search-Engine
+# Stack-Overflow-Search-Engine
 It is a necessary for any business to give their user give the relevant results,
 so it became a necessary problem to solve for any organization, so we will
 be solving this problem using some state of the art machine learning and
@@ -17,3 +18,4 @@ than 0.5 second.
 
 ### please have a look at the Code in action
 <img src = "result.gif">
+ For detailed information please refer :https://karanguptaneo.medium.com/stack-overflow-search-engine-ce1ce2f9fe1b
