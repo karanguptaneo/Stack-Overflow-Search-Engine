@@ -16,5 +16,5 @@ the text and the semantic similarity of the query as results to the user in less
 than 0.5 second.
 
 ### please have a look at the Code in action
-<img src = "result.gif">
+<img src = "result_.gif">
  please refer :https://karanguptaneo.medium.com/stack-overflow-search-engine-ce1ce2f9fe1b
